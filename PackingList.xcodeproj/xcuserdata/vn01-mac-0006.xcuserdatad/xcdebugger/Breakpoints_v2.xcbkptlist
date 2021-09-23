@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C2F258BF-6D4E-4804-A6C7-943B28690E08"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF6DF8AC-58BD-4310-B087-E92D5E59E13E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PackingList/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "DF6DF8AC-58BD-4310-B087-E92D5E59E13E - 882409d814d6f359"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PackingList.ViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "PackingList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vn01-mac-0006/Documents/BA-1-02Animating%20Constraint%20Constants/Animating%20Constants%20-%20Start/PackingList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "DF6DF8AC-58BD-4310-B087-E92D5E59E13E - 7b3e827c55170755"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PackingList.ViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "PackingList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vn01-mac-0006/Documents/BA-1-02Animating%20Constraint%20Constants/Animating%20Constants%20-%20Start/PackingList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "DF6DF8AC-58BD-4310-B087-E92D5E59E13E - 45eb1dbd08e32ae7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PackingList.ViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "PackingList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vn01-mac-0006/Documents/BA-1-02Animating%20Constraint%20Constants/Animating%20Constants%20-%20Start/PackingList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "DF6DF8AC-58BD-4310-B087-E92D5E59E13E - 98ad61c770d350cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PackingList.ViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PackingList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vn01-mac-0006/Documents/BA-1-02Animating%20Constraint%20Constants/Animating%20Constants%20-%20Start/PackingList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "DF6DF8AC-58BD-4310-B087-E92D5E59E13E - 9b0f13c81239153d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PackingList.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PackingList.ViewController"
+                  moduleName = "PackingList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vn01-mac-0006/Documents/BA-1-02Animating%20Constraint%20Constants/Animating%20Constants%20-%20Start/PackingList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "250">
+               </Location>
+               <Location
+                  uuid = "DF6DF8AC-58BD-4310-B087-E92D5E59E13E - d1518e40de140038"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PackingList.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PackingList.ViewController&gt;"
+                  moduleName = "PackingList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vn01-mac-0006/Documents/BA-1-02Animating%20Constraint%20Constants/Animating%20Constants%20-%20Start/PackingList/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E58BBE5-5630-4C03-B8E2-F818A8F12880"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PackingList/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "showItem(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BFC1936-C1A8-4A80-8DB2-5668ADDAFF87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PackingList/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D0F35C4-2145-4185-8577-6E3D4DEF0E59"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PackingList/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
